@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Luis Conceicao',
-  tagline: 'Dinosauros are cool',
+  title: 'Pizzi Oficinas Lda',
+  tagline: 'Com o Pizzi presente viajar é para sempre',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
