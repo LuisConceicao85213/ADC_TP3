@@ -14,5 +14,45 @@ tracking, múltiplos utilizadores a fazer commit, merges, etc.
 
 
 ## O que fazer
- - Mudar docusaurus.config.js
- - 
+ - Mudar footer
+ - Mudar navbar
+ - Criar página "quem somos"
+ - Criar página "contactos"
+ - Criar página "serviços"
+ - Página "Home"
+ 
+
+### Footer
+ - Contacto com telefone e email
+ - Morada
+ - Todas as páginas
+ - Logo da empresa
+ - Horário
+
+
+### Navbar
+ - Adicionar zona "serviços"
+ - Mudar logo
+
+
+### Página "Quem Somos"
+ - Nome dos funcionários
+ - História da empresa
+ - Parcerias
+
+### Página "Contactos"
+ - Formulário
+ - Número de telefone
+ - Email
+ - Morada
+
+### Página "Serviços"
+ - Reparação
+ - Revisões
+ - Modificações
+
+### Página "Home"
+ - Patrocinios
+ - Porquê Escolher (Rápidos, Eficazes, Baratos)
+ - Imagens com veículos que reparamos
+ - Uma citação inspiradora de Smokey Nagata
