@@ -10,17 +10,16 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Rápidos',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Na nossa oficina, a agilidade é a chave. Garantimos serviços rápidos e de qualidade para colocar você de volta na estrada com confiança.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Eficazes',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -30,7 +29,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Baratos',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
