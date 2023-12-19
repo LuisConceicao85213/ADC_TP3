@@ -93,14 +93,11 @@ const config = {
             title: 'Contacto',
             items: [
               {
-                label: '+351 281 322 533',
+                label: 'Telefone: +351 281 423 232',
+                to: '/blog',
               },
-              {
-                label: 'Rua do Salto nº32',
-              },
-              {
-                label: '8800-323 Tavira',
-              },
+              {label: 'Rua do Salto  nº32', to: '/blog',},
+              {label: '8800-323 Tavira', to: '/blog',}
             ],
           },
           {
