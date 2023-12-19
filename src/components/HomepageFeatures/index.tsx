@@ -29,11 +29,10 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Baratos',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikbest.com%2Ffree-png-images%2Fsave-money.html&psig=AOvVaw1qgltVcxvPdXUAt8LkvRn_&ust=1703109406206000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODjj5W_nIMDFQAAAAAdAAAAABAD').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Conosco os custos sao poucos e duradouros.
       </>
     ),
   },
