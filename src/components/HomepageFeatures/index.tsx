@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Baratos',
-    Svg: require('https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikbest.com%2Ffree-png-images%2Fsave-money.html&psig=AOvVaw1qgltVcxvPdXUAt8LkvRn_&ust=1703109406206000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODjj5W_nIMDFQAAAAAdAAAAABAD').default,
+    Svg: require('https://png.pngtree.com/png-clipart/20210312/original/pngtree-cartoon-car-repair-service-png-image_6064172.jpg').default,
     description: (
       <>
         Conosco os custos sao poucos e duradouros.
