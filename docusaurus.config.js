@@ -94,10 +94,10 @@ const config = {
             items: [
               {
                 label: 'Telefone: +351 281 423 232',
-                to: '/blog',
+                to: '/',
               },
-              {label: 'Rua do Salto  nº32', to: '/blog',},
-              {label: '8800-323 Tavira', to: '/blog',}
+              {label: 'Rua do Salto  nº32', to: '/',},
+              {label: '8800-323 Tavira', to: '/',}
             ],
           },
           {
