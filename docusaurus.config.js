@@ -96,7 +96,7 @@ const config = {
                 label: 'Telefone: +351 281 423 232'
               },
               {label: 'Rua do Salto  nº32'},
-              {label: '8800-323 Tavira'}
+              {label: '8800-323 Tavira'},
             ],
           },
           {
