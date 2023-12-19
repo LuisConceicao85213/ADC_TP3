@@ -90,12 +90,13 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Contacto',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Telefone: +351 281 423 232'
               },
+              {label: 'Rua do Salto  nº32'},
+              {label: '8800-323 Tavira'}
             ],
           },
           {
