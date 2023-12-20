@@ -18,7 +18,7 @@ Aqui mostramos que tipo de serviços a nossa **oficina** tem a oferecer.
 
 ## Revisões
 
-**Revisões feitas sempre que precisarem com precisão que até atiradores de elite têm inveja**
+**Revisões feitas sempre que precisarem com precisão que dá inveja até a atiradores de elite**
 
 ## Start your site
 
