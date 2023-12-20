@@ -2,46 +2,29 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Os nossos serviços
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Aqui mostramos que tipo de serviços a nossa **oficina** tem a oferecer.
 
-## Getting Started
+## Reparação
 
-Get started by **creating a new site**.
+**Os nossos mecânicos são formados em difrentes áreas da mecânica realizando as reparações com maestria e rapidez tendo um feedback rápido da reparação do veiculo.**
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+### Demonstração
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [Demonstração](https://www.youtube.com/watch?v=x7vnNAe3wgM) de uma reparação feita pelos nossos mecânicos numa oficia parceira:
+  - Os nossos profissionais a ajudar a oficina **Costa** depois da parceria.
 
-## Generate a new site
+## Revisões
 
-Generate a new Docusaurus site using the **classic template**.
+**Revisões feitas sempre que precisarem com precisão que dá inveja até a atiradores de elite**
 
-The classic template will automatically be added to your project after you run the command:
+Fazemos a revisão do carro todo e caso encontremos alguma avaria ou defeito reparamos com a sua permissão no dia que o encontramos.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## Modificações
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+**Os nossos mecânicos tem experiência e várias formações nas modificações, facilmente superam a velocidade e a eficiência dos Pitstoppers profissionais**
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+As nossas modificações são todas de alta qualidade e baratas. Somos a única oficina que faz modificações a este nível sem se especificar nelas
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
