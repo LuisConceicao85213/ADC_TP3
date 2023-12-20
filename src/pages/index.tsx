@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Temos patricinios com: HKS, Tein, Mugen e NGK 🚗
+            Os Nossos Serviços
           </Link>
         </div>
       </div>

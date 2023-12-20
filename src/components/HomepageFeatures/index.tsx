@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Na nossa oficina, a agilidade é a chave. Garantimos serviços rápidos e de qualidade para colocar você de volta na estrada com confiança.
+        Na nossa oficina, a agilidade é a chave.
       </>
     ),
   },
@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Na nossa oficina, a velocidade não é apenas uma promessa, é a nossa expertise. Serviços eficazes e rápidos que garantem a excelência, proporcionando uma experiência automotiva única e eficiente..
+        A qualidade não é apenas uma promessa, é uma obrigação. 
       </>
     ),
   },
@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Conosco os custos são tãao poucos e duradouros.
+        Conosco os custos são baixos e confiáveis.
       </>
     ),
   },

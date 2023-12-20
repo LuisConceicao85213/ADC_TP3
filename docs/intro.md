@@ -8,27 +8,17 @@ Aqui mostramos que tipo de serviços a nossa **oficina** tem a oferecer.
 
 ## Reparação
 
-**Os nossos mecanicos são formados em difrentes areas da mecanica realizando as reparações com mestria e rapidez tendo um feedback rápido da reparação do veiculo**.
+**Os nossos mecânicos são formados em difrentes áreas da mecânica realizando as reparações com maestria e rapidez tendo um feedback rápido da reparação do veiculo.**
 
 
-### What you'll need
+### Demonstração
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [Demonstração](https://www.youtube.com/watch?v=x7vnNAe3wgM) de uma reparação feita pelos nossos mecânicos numa oficia parceira:
+  - Os nossos profissionais a ajudar a oficina **Costa** depois da parceria.
 
-## Generate a new site
+## Revisões
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
+**Revisões feitas sempre que precisarem com precisão que até atiradores de elite têm inveja**
 
 ## Start your site
 
