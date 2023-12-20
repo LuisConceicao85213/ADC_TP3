@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Conosco os custos sao poucos e duradouros.
+        Conosco os custos são tãao poucos e duradouros.
       </>
     ),
   },
