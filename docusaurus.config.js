@@ -68,7 +68,7 @@ const config = {
         title: 'Pizzi Oficinas Lda',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/Pizzi_Oficinas-removebg-preview.png',
         },
         items: [
           {
