@@ -1,6 +1,6 @@
 ---
 slug: welcome
-title: Welcome
+title: Quem Somos
 authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
