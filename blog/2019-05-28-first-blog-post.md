@@ -1,7 +1,9 @@
 ---
 slug: first-blog-post
-title: First Blog Post
-tags: [hola, docusaurus]
+title: Patrocinios
+tags: [Patrocinios]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+## Patrocinios
+
+Na nossa oficina tamos a ser patrocionados por várias marcas conhecidas e de boa qualidade sendo elas: [HKS](https://www.hks-power.co.jp/en/product/), [MUGEN](https://www.mugen-power.com/#intro), [NGK](https://ngksparkplugs.com/en/), [Brembo](https://www.brembo.com/en/), [Michelin](https://www.michelinman.com/)
