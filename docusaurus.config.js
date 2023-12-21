@@ -104,7 +104,23 @@ const config = {
               {label: '8800-323 Tavira', to: '/',}
             ],
           },
-          
+          {
+            title: 'As Outras Páginas',
+            items: [
+              {
+                label: 'Serviços',
+                to: '/docs',
+              },
+              {
+                label: 'Quem Somos',
+                to: '/blog',
+              },
+              {
+                label: 'Pizzi Oficinas LDA',
+                to: '/',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
