@@ -97,6 +97,9 @@ const config = {
                 label: 'Telefone: +351 281 423 232',
                 to: '/',
               },
+              {
+                label: 'Email: pizzioficinas@gmail.pt'
+              }
               {label: 'Rua do Salto  nº32', to: '/',},
               {label: '8800-323 Tavira', to: '/',}
             ],
@@ -119,16 +122,21 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Horário',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Segunda a Sexta',
+                label: '9:00 - 18:00'
+              
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Sábado',
+                label: '9:00 - 15:00',
               },
+              {
+                label: 'Domingo',
+                label: 'Folga',
+              }
             ],
           },
         ],
