@@ -1,12 +1,11 @@
 ---
-slug: quem somos
-title: Quem somos
+slug: welcome
+title: Welcome
 authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
 
 [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
-
 A nossa equipa é formada por vários profissionais formados e competentes
 
 Simply add Markdown files (or folders) to the `blog` directory.
