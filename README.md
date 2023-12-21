@@ -26,7 +26,6 @@ tracking, múltiplos utilizadores a fazer commit, merges, etc.
  - Contacto com telefone e email
  - Morada
  - Todas as páginas
- - Logo da empresa
  - Horário
 
 
