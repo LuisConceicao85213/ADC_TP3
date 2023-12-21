@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Rápidos',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/pizzi oficinas rapidos.png').default,
     description: (
       <>
         Na nossa oficina, a agilidade é a chave.
