@@ -80,11 +80,6 @@ const config = {
             label: 'Serviços',
           },
           {to: '/blog', label: 'Quem Somos', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
