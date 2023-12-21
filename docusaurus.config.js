@@ -99,12 +99,46 @@ const config = {
               },
               {
                 label: 'Email: pizzioficinas@gmail.pt',
+                to: '/',
               },
               {label: 'Rua do Salto  nº32', to: '/',},
               {label: '8800-323 Tavira', to: '/',}
             ],
           },
-          
+          {
+            title: 'As Outras Páginas',
+            items: [
+              {
+                label: 'Serviços',
+                to: '/docs/intro/',
+              },
+              {
+                label: 'Quem Somos',
+                to: '/blog',
+              },
+              {
+                label: 'Pizzi Oficinas LDA',
+                to: '/',
+              },
+            ],
+          },
+          {
+            title: 'Páginas',
+            items: [
+              {
+                label: 'Serviços',
+                to: '/docs/intro/',
+              },
+              {
+                label: 'Quem Somos',
+                to: '/blog',
+              },
+              {
+                label: 'Pizzi Oficinas LDA',
+                to: '/',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
