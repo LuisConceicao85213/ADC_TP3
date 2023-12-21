@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Eficazes',
-    Svg: require('@site/static/img/imagem_oficina2.svg').default,
+    Svg: require('@site/static/img/imagem_oficinas2.svg').default,
     description: (
       <>
         A qualidade não é apenas uma promessa, é uma obrigação. 
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Baratos',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/imagem_oficinas3.svg').default,
     description: (
       <>
         Conosco os custos são baixos e confiáveis.
