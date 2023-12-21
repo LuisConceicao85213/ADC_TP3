@@ -329,7 +329,7 @@
   },
   "docusaurus-plugin-content-blog": {
     "default": {
-      "blogSidebarTitle": "Recent posts",
+      "blogSidebarTitle": "Nossa Oficina",
       "blogPosts": [
         {
           "id": "welcome",
