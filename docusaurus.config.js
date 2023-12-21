@@ -59,6 +59,8 @@ const config = {
     ],
   ],
 
+
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -100,19 +102,19 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'As Outras Páginas',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Serviços',
+                to: '/docs/intro',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Quem Somos',
+                to: '/blog',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Pizzi Oficinas LDA',
+                to: '/',
               },
             ],
           },
