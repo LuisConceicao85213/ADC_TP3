@@ -6,11 +6,11 @@ tags: [Funcionários]
 
 ### **Iannis - Engenheiro Chefe** ![Iannis - Engenheiro Chefe](iannis.png)
 
-### **Daniel - Mecânico geral** ![daniel](daniel.jpg)
+### **Daniel - Mecânico geral** ![Daniel - Mecânico](daniel.jpg)
 
-### **Luis - Contabilista** ![luis](luis.jpg)
+### **Luis - Contabilista** ![Luis - Contabilista](luis.jpg)
 
-### **Guilherme - Líder de Marketing** ![guilherme](guilherme.jpg)
+### **Guilherme - Líder de Marketing** ![Guilherme - Líder de Marketing](guilherme.jpg)
 
-### **David - Chefe da Empresa**  ![david](david.jpg)
+### **David - Chefe da Empresa**  ![David - Chefe da Empresa](david.jpg)
 
