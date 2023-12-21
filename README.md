@@ -37,7 +37,7 @@ tracking, múltiplos utilizadores a fazer commit, merges, etc.
 ### Página "Quem Somos"
  - Nome dos funcionários
  - História da empresa
- - Parcerias
+ - Patrocinios
 
 ### Página "Contactos"
  - Formulário
