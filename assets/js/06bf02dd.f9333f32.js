@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[172],{9226:s=>{s.exports=JSON.parse('{"label":"quem somos","permalink":"/ADC_TP3/blog/tags/quem-somos","allTagsPath":"/ADC_TP3/blog/tags","count":1}')}}]);
