@@ -121,35 +121,7 @@ const config = {
               },
             ],
           },
-          {
-            title: 'Horário',
-            items: [
-              {
-                label: 'Segunda a Sexta',
-                to: '/',
-              },
-              {
-                label: '9:00 - 18:00',
-                to: '/',
-              },
-              {
-                label: 'Sábado',
-                to: '/',
-              },
-              {
-                label: '9:00 - 15:00',
-                to: '/',
-              },
-              {
-                label: 'Domingo',
-                to: '/',
-              },
-              {
-                label: 'Folga',
-                to: '/',
-              }
-            ],
-          },
+          
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
