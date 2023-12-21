@@ -1,7 +1,7 @@
 ---
 slug: long-blog-post
 title: Funcionários
-tags: [hello, docusaurus]
+tags: [Funcionários]
 ---
 
-
+![Iannis - Engenheiro Chefe](iannis.png)
