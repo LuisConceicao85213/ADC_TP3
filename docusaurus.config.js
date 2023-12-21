@@ -106,7 +106,7 @@ const config = {
             items: [
               {
                 label: 'Serviços',
-                to: '/docs/intro',
+                to: '/docs',
               },
               {
                 label: 'Quem Somos',
