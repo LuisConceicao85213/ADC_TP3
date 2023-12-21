@@ -35,13 +35,12 @@
         <category label="Funcionários" term="Funcionários"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
+        <title type="html"><![CDATA[Patrocinios]]></title>
         <id>https://github.com/ADC_TP3/blog/first-blog-post</id>
         <link href="https://github.com/ADC_TP3/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <category label="hola" term="hola"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <summary type="html"><![CDATA[Patrocinios]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="patrocinios">Patrocinios<a href="#patrocinios" class="hash-link" aria-label="Direct link to Patrocinios" title="Direct link to Patrocinios">​</a></h2><p>Na nossa oficina tamos a ser patrocionados por várias marcas conhecidas e de boa qualidade sendo elas: <a href="https://www.hks-power.co.jp/en/product/" target="_blank" rel="noopener noreferrer">HKS</a>, <a href="https://www.mugen-power.com/#intro" target="_blank" rel="noopener noreferrer">MUGEN</a>, <a href="https://ngksparkplugs.com/en/" target="_blank" rel="noopener noreferrer">NGK</a>, <a href="https://www.brembo.com/en/" target="_blank" rel="noopener noreferrer">Brembo</a>, <a href="https://www.michelinman.com/" target="_blank" rel="noopener noreferrer">Michelin</a></p>]]></content>
+        <category label="Patrocinios" term="Patrocinios"/>
     </entry>
 </feed>

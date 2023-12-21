@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[46],{7715:s=>{s.exports=JSON.parse('{"label":"Patrocinios","permalink":"/ADC_TP3/blog/tags/patrocinios","allTagsPath":"/ADC_TP3/blog/tags","count":1}')}}]);
