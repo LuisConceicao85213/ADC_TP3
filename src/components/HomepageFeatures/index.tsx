@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Rápidos',
-    Svg: require('@site/static/img/imagem_oficina1.png').default,
+    Svg: require('@site/static/img/imagem_oficina1.svg').default,
     description: (
       <>
         Na nossa oficina, a agilidade é a chave.
