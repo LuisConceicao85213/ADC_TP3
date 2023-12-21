@@ -98,8 +98,8 @@ const config = {
                 to: '/',
               },
               {
-                label: 'Email: pizzioficinas@gmail.pt'
-              }
+                label: 'Email: pizzioficinas@gmail.pt',
+              },
               {label: 'Rua do Salto  nº32', to: '/',},
               {label: '8800-323 Tavira', to: '/',}
             ],
@@ -126,15 +126,20 @@ const config = {
             items: [
               {
                 label: 'Segunda a Sexta',
-                label: '9:00 - 18:00'
-              
+              },
+              {
+                label: '9:00 - 18:00',
               },
               {
                 label: 'Sábado',
+              },
+              {
                 label: '9:00 - 15:00',
               },
               {
                 label: 'Domingo',
+              },
+              {
                 label: 'Folga',
               }
             ],
