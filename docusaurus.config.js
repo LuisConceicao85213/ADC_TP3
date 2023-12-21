@@ -122,30 +122,18 @@ const config = {
             ],
           },
           {
-            title: 'Horário',
+            title: 'As Outras Páginas',
             items: [
               {
-                label: 'Segunda a Sexta',
-                to: '/',
+                label: 'Serviços',
+                to: '/docs',
               },
               {
-                label: '9:00 - 18:00',
-                to: '/',
+                label: 'Quem Somos',
+                to: '/blog',
               },
               {
-                label: 'Sábado',
-                to: '/',
-              },
-              {
-                label: '9:00 - 15:00',
-                to: '/',
-              },
-              {
-                label: 'Domingo',
-                to: '/',
-              },
-              {
-                label: 'Folga',
+                label: 'Pizzi Oficinas LDA',
                 to: '/',
               },
             ],
