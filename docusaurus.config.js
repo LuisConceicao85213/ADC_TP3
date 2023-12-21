@@ -99,13 +99,14 @@ const config = {
               },
               {
                 label: 'Email: pizzioficinas@gmail.pt',
+                to: '/'
               },
               {label: 'Rua do Salto  nº32', to: '/',},
               {label: '8800-323 Tavira', to: '/',}
             ],
           },
           {
-            title: 'As Outras Páginas',
+            title: 'Páginas',
             items: [
               {
                 label: 'Serviços',
