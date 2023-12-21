@@ -1,8 +1,7 @@
 ---
 slug: welcome
 title: Quem Somos
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+tags: [quem somos]
 ---
 
 A nossa equipa é formada por vários profissionais formados e competentes
