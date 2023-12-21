@@ -31,8 +31,9 @@
             <link>https://github.com/ADC_TP3/blog/long-blog-post</link>
             <guid>https://github.com/ADC_TP3/blog/long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <category>hello</category>
-            <category>docusaurus</category>
+            <description><![CDATA[Iannis - Engenheiro Chefe]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Iannis - Engenheiro Chefe" src="/ADC_TP3/assets/images/iannis-8b2a33391dfd1b49dfb27200b9023b8d.png" width="720" height="1600" class="img_ev3q"></p>]]></content:encoded>
+            <category>Funcionários</category>
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>

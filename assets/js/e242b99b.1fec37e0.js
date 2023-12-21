@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[946],{6520:s=>{s.exports=JSON.parse('{"label":"Funcion\xe1rios","permalink":"/ADC_TP3/blog/tags/funcionarios","allTagsPath":"/ADC_TP3/blog/tags","count":1}')}}]);
