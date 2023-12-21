@@ -1,7 +1,6 @@
 ---
 slug: welcome
 title: Quem Somos
-authors: [slorber, yangshun]
 tags: [quem somos]
 ---
 
