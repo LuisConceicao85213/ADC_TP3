@@ -106,7 +106,7 @@ const config = {
             items: [
               {
                 label: 'Serviços',
-                href: 'https://github.com/facebook/docusaurus',
+                to: '/docs/intro',
               },
               {
                 label: 'Quem Somos',
@@ -114,7 +114,7 @@ const config = {
               },
               {
                 label: 'Pizzi Oficinas LDA',
-                href: 'https://github.com',
+                to: '/',
               },
             ],
           },
