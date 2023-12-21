@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Baratos',
-    Svg: require('@site/static/img/imagem_oficinas3.svg').default,
+    Svg: require('@site/static/img/k.svg').default,
     description: (
       <>
         Conosco os custos são baixos e confiáveis.

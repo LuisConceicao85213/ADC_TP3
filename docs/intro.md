@@ -24,7 +24,7 @@ Fazemos a revisão do carro todo e caso encontremos alguma avaria ou defeito rep
 
 ## Modificações
 
-**Os nossos mecânicos tem experiência e várias formações nas modificações, facilmente superam a velocidade e a eficiência dos Pitstoppers profissionais**
+**Os nossos mecânicos tem experiência e várias formações nas modificações, facilmente superam a velocidade e a eficiência dos Tuner's profissionais**
 
 As nossas modificações são todas de alta qualidade e baratas. Somos a única oficina que faz modificações a este nível sem se especificar nelas
 
