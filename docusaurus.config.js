@@ -70,7 +70,7 @@ const config = {
         title: 'Pizzi Oficinas Lda',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/Pizzi_Oficinas-removebg-preview.png',
         },
         items: [
           {
@@ -80,7 +80,6 @@ const config = {
             label: 'Serviços',
           },
           {to: '/blog', label: 'Quem Somos', position: 'left'},
-          {to: '/blog', label: 'Contactos', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
